@@ -1,9 +1,11 @@
-# RSVP-SIS
-===========
+# Cypress Semi CY8CKIT-049/4200
+===============================
 
 Reference System Virtual Platform - Software Interface Standard
+for the CY8CKIT-049/4200
 
 ## for detailed information
+
 see the [RSVPSIS Website](http://www.rsvpsis.com)
 
 
