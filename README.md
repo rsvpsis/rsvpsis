@@ -11,10 +11,12 @@ While most semiconductor vendors will provide a baseline "driver" library for th
 
 RSVP-SIS is intended to provide a vendor neutral, and device/architecture agnostic set of resources, peripherals, and Application Programming Interfaces (API's) with which to access them. By providing a common set of resources and API's, embedded applications can be ported more rapidly, and with less code modification or if/def configuration.
 
-## Current Supported Boards Library 
+## Supported Boards Library (Current)
 
-![Cypress CY8CKIT-049](http://www.cypress.com/sites/default/files/inline/fckImages/myresources/CY8CKIT-049.jpg "Cypress CY8CKIT-049") 
+![Cypress CY8CKIT-049](http://www.cypress.com/sites/default/files/inline/fckImages/myresources/CY8CKit-049_sm(1).jpg "Cypress CY8CKIT-049")
+
 ![Cypress CY8CKIT-059](http://www.cypress.com/sites/default/files/inline/fckImages/myresources/CY8CKIT-059.jpg "Cypress CY8CKIT-059")
+
 
 ## for detailed information
 see the [RSVPSIS Website](http://www.rsvpsis.com)
