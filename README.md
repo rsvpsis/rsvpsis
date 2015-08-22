@@ -11,21 +11,26 @@ While most semiconductor vendors will provide a baseline "driver" library for th
 
 RSVP-SIS is intended to provide a vendor neutral, and device/architecture agnostic set of resources, peripherals, and Application Programming Interfaces (API's) with which to access them. By providing a common set of resources and API's, embedded applications can be ported more rapidly, and with less code modification or if/def configuration.
 
-## Supported Boards Library (Current)
+## Supported Boards Library (Current-Beta)
+
+[Cypress CY8CKIT-042](http://www.cypress.com/documentation/development-kitsboards/cy8ckit-042-psoc-4-pioneer-kit "Cypress CY8CKIT-042")
+
+![Cypress CY8CKIT-042](http://www.cypress.com/sites/default/files/inline/ui/4_0/images/DSC_0085_1.jpg "Cypress CY8CKIT-042")
+
+[Cypress CY8CKIT-044](http://www.cypress.com/documentation/development-kitsboards/cy8ckit-044-psoc-4-m-series-pioneer-kit "Cypress CY8CKIT-044")
+
+![Cypress CY8CKIT-044](http://www.cypress.com/sites/default/files/media-embed/263821/E1011653.jpg "Cypress CY8CKIT-044")
 
 [Cypress CY8CKIT-049](http://www.cypress.com/documentation/development-kitsboards/psoc-4-cy8ckit-049-4xxx-prototyping-kits "Cypress CY8CKIT-049")
 
 ![Cypress CY8CKIT-049](http://www.cypress.com/sites/default/files/inline/fckImages/myresources/CY8CKit-049_sm(1).jpg "Cypress CY8CKIT-049")
 
-
 [Cypress CY8CKIT-059](http://www.cypress.com/documentation/development-kitsboards/cy8ckit-059-psoc-5lp-prototyping-kit "Cypress CY8CKIT-059")
 
 ![Cypress CY8CKIT-059](http://www.cypress.com/sites/default/files/inline/fckImages/myresources/CY8CKIT-059.jpg "Cypress CY8CKIT-059")
 
+## Boards in Development (Pre-Alpha)
 
-[Cypress CY8CKIT-044](http://www.cypress.com/documentation/development-kitsboards/cy8ckit-044-psoc-4-m-series-pioneer-kit "Cypress CY8CKIT-044")
-
-![Cypress CY8CKIT-044](http://www.cypress.com/sites/default/files/media-embed/263821/E1011653.jpg "Cypress CY8CKIT-044")
 
 
 ## for detailed information
