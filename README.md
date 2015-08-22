@@ -3,6 +3,19 @@
 
 Reference System Virtual Platform - Software Interface Standard
 
+Modern configurable System-on-Chip and Field Programmable Gate Array devices, are a blank slate for designers to draw on. However, most systems require several common resources and peripherals in order to present the user with a usable "System Platform" upon which to base an application.
+
+The Reference System Virtual Platforms (RSVPs) are designed to provide useful baseline systems with commonly required resources and peripherals, as well as a vendor neutral, portable API to access and control those resources and peripherals.
+
+While most semiconductor vendors will provide a baseline "driver" library for their parts, or a configuation tool within their IDE (Integrated Development Environment) to select and configure IP blocks, these tend to be unique, vendor specific, and/or proprietary in nature. It can often take a significant amount of work to port an embedded application from one SOC/Microprocessor family to another.
+
+RSVP-SIS is intended to provide a vendor neutral, and device/architecture agnostic set of resources, peripherals, and Application Programming Interfaces (API's) with which to access them. By providing a common set of resources and API's, embedded applications can be ported more rapidly, and with less code modification or if/def configuration.
+
+## Current Supported Boards Library 
+
+![Cypress CY8CKIT-049](http://www.cypress.com/sites/default/files/inline/fckImages/myresources/CY8CKIT-049.jpg "Cypress CY8CKIT-049") 
+![Cypress CY8CKIT-059](http://www.cypress.com/sites/default/files/inline/fckImages/myresources/CY8CKIT-059.jpg "Cypress CY8CKIT-059")
+
 ## for detailed information
 see the [RSVPSIS Website](http://www.rsvpsis.com)
 
