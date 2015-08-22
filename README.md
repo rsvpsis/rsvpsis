@@ -1,8 +1,5 @@
-# RSVP-SIS
-===========
-
-## Reference System Virtual Platform ##
-## (Software Interface Standard) ##
+# Reference System Virtual Platform
+## Software Interface Standard ##
 
 Modern configurable System-on-Chip and Field Programmable Gate Array devices, are a blank slate for designers to draw on. However, most systems require several common resources and peripherals in order to present the user with a usable "System Platform" upon which to base an application.
 
