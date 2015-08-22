@@ -19,7 +19,7 @@ RSVP-SIS is intended to provide a vendor neutral, and device/architecture agnost
 
 [Cypress CY8CKIT-044](http://www.cypress.com/documentation/development-kitsboards/cy8ckit-044-psoc-4-m-series-pioneer-kit "Cypress CY8CKIT-044")
 
-![Cypress CY8CKIT-044](http://www.cypress.com/sites/default/files/media-embed/263821/E1011653.jpg "Cypress CY8CKIT-044")
+![Cypress CY8CKIT-044](http://www.cypress.com/sites/default/files/media-embed/263821/E1011733.jpg "Cypress CY8CKIT-044 with RaspPi")
 
 [Cypress CY8CKIT-049](http://www.cypress.com/documentation/development-kitsboards/psoc-4-cy8ckit-049-4xxx-prototyping-kits "Cypress CY8CKIT-049")
 
