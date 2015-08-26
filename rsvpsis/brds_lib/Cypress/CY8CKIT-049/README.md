@@ -10,6 +10,8 @@ for the CY8CKIT-049/4200
 
 ![Cypress CY8CKIT-049](http://www.cypress.com/sites/default/files/inline/fckImages/myresources/CY8CKit-049_sm(1).jpg "Cypress CY8CKIT-049")
 
+![CY8CKIT-049 Pinout](./CY8CKIT-049-pinout.png "CY8CKIT-049 Pinout")
+
 ## for detailed information
 see the [RSVPSIS Website](http://www.rsvpsis.com)
 
